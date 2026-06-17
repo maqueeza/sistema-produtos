@@ -1,3 +1,5 @@
+### This is a project I'm developing for my Application Development course at SENAI with Professor Lucas. We're getting an introduction to TypeScript. We've already worked with Java and built more advanced projects than this, but he decided to introduce a new language to help us prepare for the next semesters and make the learning process easier.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
